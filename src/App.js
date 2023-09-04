@@ -50,27 +50,27 @@ export default function App() {
   const contents = [
     {
       id: 1,
-      img: "/images/brazil.jpg",
+      img: "./images/brazil.jpg",
       alt: 'Brazil',
     },
     {
       id: 2,
-      img: "/images/china.jpg",
+      img: "./images/china.jpg",
       alt: 'China',
     },
     {
       id: 3,
-      img: "/images/france.jpg",
+      img: "./images/france.jpg",
       alt: 'France',
     },
     {
       id: 4,
-      img: "/images/japan.jpg",
+      img: "./images/japan.jpg",
       alt: 'Japan',
     },
     {
       id: 5,
-      img: "/images/norway.jpg",
+      img: "./images/norway.jpg",
       alt: "Norway",
     }
   ]
